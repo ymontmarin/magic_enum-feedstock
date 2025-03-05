@@ -22,7 +22,7 @@ requirements:
 
 test:
   commands:
-    - test -f ${PREFIX}/include/magic_enum.hpp  # [unix]
+    - test -f ${PREFIX}/include/magic_enum/magic_enum.hpp  # [unix]
 
 about:
   home: https://github.com/Neargye/magic_enum
